@@ -20,6 +20,8 @@ System Requirements:
 4. Visual Studio
 5. Web browser (Google Chrome, Mozilla Firefox....)
 
+The web application built with ASP.NETMCV5 for interfacing this project https://github.com/GYAN-SHRESTHA/BE-project
+
 
 
 
